@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches: 
+      - "*"
+  pull_request:
+    branches: 
+      - "*"
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build
+        run: cargo build
+
+      - name: Tar workspace
+        run: tar -czvf workspace.tar.gz ./target/
+
+      - name: Persist in cache
+        uses: actions/cache@v2
+        with:
+          path: workspace.tar.gz
+          key: ${{ runner.os }}-workspace-tar-${{ github.ref_name }}-${{ github.sha }}
+
+  test:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Restore from cache
+        uses: actions/cache@v2
+        with:
+          path: workspace.tar.gz
+          key: ${{ runner.os }}-workspace-tar-${{ github.ref_name }}-${{ github.sha }}
+
+      - name: Extract workspace
+        run: tar -xzvf workspace.tar.gz
+
+      - name: Test
+        run: ./scripts/ci.sh

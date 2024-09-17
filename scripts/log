@@ -1,0 +1,928 @@
+len(words): 88159
+word: a i: 0 nb_words: 88159
+word: à i: 1 nb_words: 88159
+word: A i: 2 nb_words: 88159
+word: à-côté i: 3 nb_words: 88159
+word: à-coup i: 4 nb_words: 88159
+word: à-peu-près i: 5 nb_words: 88159
+word: à-pic i: 6 nb_words: 88159
+word: à-pics i: 7 nb_words: 88159
+word: à-plat i: 8 nb_words: 88159
+word: à-propos i: 9 nb_words: 88159
+À-côté (Nom commun)
+Nom commun
+À-pics (Forme de nom commun)
+Forme de nom commun
+A (Lettre)
+Lettre
+À-pic (Nom commun)
+Nom commun
+À-coup (Nom commun)
+Nom commun
+À-plat (Nom commun)
+Nom commun
+À-peu-près (Nom commun)
+Nom commun
+À-propos (Nom commun)
+Nom commun
+A (Lettre)
+Lettre
+A (Lettre)
+Lettre
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre'}
+word: à-valoir i: 10 nb_words: 88159
+word: à-venir i: 11 nb_words: 88159
+word: aa i: 12 nb_words: 88159
+word: AA i: 13 nb_words: 88159
+word: AAA i: 14 nb_words: 88159
+word: aaaa i: 15 nb_words: 88159
+word: AAAAA i: 16 nb_words: 88159
+word: aabam i: 17 nb_words: 88159
+word: AAH i: 18 nb_words: 88159
+word: aalénien i: 19 nb_words: 88159
+À-valoir (Nom commun)
+Nom commun
+Aa (Nom commun)
+Nom commun
+Aabam (Nom commun)
+Nom commun
+Aaaa (Symbole)
+Symbole
+Aa (Nom commun)
+Nom commun
+Aalénien (Adjectif)
+Adjectif
+À-venir (Nom commun)
+Nom commun
+AAH (Sigle)
+Sigle
+AA (Sigle)
+Sigle
+AAA (Sigle)
+Sigle
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle'}
+word: aalénienne i: 20 nb_words: 88159
+word: aastais i: 21 nb_words: 88159
+word: AAVE i: 22 nb_words: 88159
+word: ab i: 23 nb_words: 88159
+word: AB i: 24 nb_words: 88159
+word: aba i: 25 nb_words: 88159
+word: ababouiné i: 26 nb_words: 88159
+word: abaca i: 27 nb_words: 88159
+word: abacos i: 28 nb_words: 88159
+word: abacost i: 29 nb_words: 88159
+Aalénienne (Forme d’adjectif)
+Forme d’adjectif
+Ab (Nom commun)
+Nom commun
+Ab (Nom commun)
+Nom commun
+Abacost (Nom commun)
+Nom commun
+Aba (Nom commun)
+Nom commun
+Ababouiné (Adjectif)
+Adjectif
+Aastais (Adjectif)
+Adjectif
+Abaca (Nom commun)
+Nom commun
+Abacos (Nom commun)
+Nom commun
+AAVE (Sigle)
+Sigle
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle'}
+word: abactérien i: 30 nb_words: 88159
+word: abactérienne i: 31 nb_words: 88159
+word: abacule i: 32 nb_words: 88159
+word: abacus i: 33 nb_words: 88159
+word: abader i: 34 nb_words: 88159
+word: abadie i: 35 nb_words: 88159
+word: abadis i: 36 nb_words: 88159
+word: abaga i: 37 nb_words: 88159
+word: abainvillois i: 38 nb_words: 88159
+word: abaissable i: 39 nb_words: 88159
+Abainvillois (Adjectif)
+Adjectif
+Abactérienne (Forme d’adjectif)
+Forme d’adjectif
+Abacule (Nom commun)
+Nom commun
+Abadis (Nom commun)
+Nom commun
+Abadie (Nom commun)
+Nom commun
+Abader (Verbe)
+Verbe
+Abacus (Nom commun)
+Nom commun
+Abactérien (Adjectif)
+Adjectif
+Abaga (Nom commun)
+Nom commun
+Abaissable (Adjectif)
+Adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif'}
+word: abaissant i: 40 nb_words: 88159
+word: abaisse i: 41 nb_words: 88159
+word: abaissé i: 42 nb_words: 88159
+word: abaisse-langue i: 43 nb_words: 88159
+word: abaisse-langues i: 44 nb_words: 88159
+word: abaissée i: 45 nb_words: 88159
+word: abaissement i: 46 nb_words: 88159
+word: abaisser i: 47 nb_words: 88159
+word: abaisseur i: 48 nb_words: 88159
+word: abaisseuse i: 49 nb_words: 88159
+Abaisse (Nom commun)
+Nom commun
+Abaissée (Nom commun)
+Nom commun
+Abaisseur (Nom commun)
+Nom commun
+Abaissement (Nom commun)
+Nom commun
+Abaisse-langues (Forme de nom commun)
+Forme de nom commun
+Abaissant (Adjectif)
+Adjectif
+Abaisseuse (Forme de nom commun)
+Forme de nom commun
+Abaisser (Verbe)
+Verbe
+Abaisse-langue (Nom commun)
+Nom commun
+Abaisse (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun'}
+word: abajoue i: 50 nb_words: 88159
+word: abalone i: 51 nb_words: 88159
+word: abalourdir i: 52 nb_words: 88159
+word: abancourtois i: 53 nb_words: 88159
+word: abandon i: 54 nb_words: 88159
+word: abandonnable i: 55 nb_words: 88159
+word: abandonnataire i: 56 nb_words: 88159
+word: abandonnateur i: 57 nb_words: 88159
+word: abandonnatrice i: 58 nb_words: 88159
+word: abandonné i: 59 nb_words: 88159
+Abajoue (Nom commun)
+Nom commun
+Abandon (Nom commun)
+Nom commun
+Abancourtois (Adjectif)
+Adjectif
+Abalone (Nom commun)
+Nom commun
+Abalourdir (Verbe)
+Verbe
+Abandonnatrice (Forme de nom commun)
+Forme de nom commun
+Abandonnataire (Nom commun)
+Nom commun
+Abandonnable (Adjectif)
+Adjectif
+Abandonné (Adjectif)
+Adjectif
+Abandonnateur (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun'}
+word: abandonnement i: 60 nb_words: 88159
+word: abandonnément i: 61 nb_words: 88159
+word: abandonner i: 62 nb_words: 88159
+word: abandonneur i: 63 nb_words: 88159
+word: abandonneuse i: 64 nb_words: 88159
+word: abandonnique i: 65 nb_words: 88159
+word: abandonware i: 66 nb_words: 88159
+word: abaque i: 67 nb_words: 88159
+word: abarticulaire i: 68 nb_words: 88159
+word: abas i: 69 nb_words: 88159
+Abandonware (Nom commun)
+Nom commun
+Abandonner (Verbe)
+Verbe
+Abandonneur (Nom commun)
+Nom commun
+Abandonnement (Nom commun)
+Nom commun
+Abas (Forme de nom commun)
+Forme de nom commun
+Abarticulaire (Adjectif)
+Adjectif
+Abandonneuse (Nom commun)
+Nom commun
+Abandonnique (Adjectif)
+Adjectif
+Abaque (Nom commun)
+Nom commun
+Abandonnement (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun'}
+word: abasie i: 70 nb_words: 88159
+word: abasourdi i: 71 nb_words: 88159
+word: abasourdir i: 72 nb_words: 88159
+word: abasourdissant i: 73 nb_words: 88159
+word: abasourdissement i: 74 nb_words: 88159
+word: abat i: 75 nb_words: 88159
+word: abat-carre i: 76 nb_words: 88159
+word: abat-carrer i: 77 nb_words: 88159
+word: abat-chauvée i: 78 nb_words: 88159
+word: abat-faim i: 79 nb_words: 88159
+Abat-carre (Nom commun)
+Nom commun
+Abasourdissant (Adjectif)
+Adjectif
+Abat (Nom commun)
+Nom commun
+Abasourdissement (Nom commun)
+Nom commun
+Abasourdi (Adjectif)
+Adjectif
+Abasie (Nom commun)
+Nom commun
+Abat-chauvée (Nom commun)
+Nom commun
+Abasourdir (Verbe)
+Verbe
+Abat-faim (Nom commun)
+Nom commun
+Abat-carrer (Verbe)
+Verbe
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe'}
+word: abat-foin i: 80 nb_words: 88159
+word: abat-foins i: 81 nb_words: 88159
+word: abat-jour i: 82 nb_words: 88159
+word: abat-jours i: 83 nb_words: 88159
+word: abat-son i: 84 nb_words: 88159
+word: abat-sons i: 85 nb_words: 88159
+word: abat-vent i: 86 nb_words: 88159
+word: abat-vents i: 87 nb_words: 88159
+word: abat-voix i: 88 nb_words: 88159
+word: abatage i: 89 nb_words: 88159
+Abat-foin (Nom commun)
+Nom commun
+Abat-jours (Forme de nom commun)
+Forme de nom commun
+Abat-vent (Nom commun)
+Nom commun
+Abat-jour (Nom commun)
+Nom commun
+Abat-son (Nom commun)
+Nom commun
+Manger (Verbe)
+Verbe
+Abat-foins (Forme de nom commun)
+Forme de nom commun
+Abat-sons (Forme de nom commun)
+Forme de nom commun
+Abat-vents (Forme de nom commun)
+Forme de nom commun
+Abat-voix (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun'}
+word: abatant i: 90 nb_words: 88159
+word: abâtardir i: 91 nb_words: 88159
+word: abâtardissement i: 92 nb_words: 88159
+word: abatée i: 93 nb_words: 88159
+word: abatis i: 94 nb_words: 88159
+word: abats i: 95 nb_words: 88159
+word: abattable i: 96 nb_words: 88159
+word: abattage i: 97 nb_words: 88159
+word: abattant i: 98 nb_words: 88159
+word: abattée i: 99 nb_words: 88159
+Abatant (Nom commun)
+Nom commun
+Abattage (Nom commun)
+Nom commun
+Abats (Forme de nom commun)
+Forme de nom commun
+Abattant (Nom commun)
+Nom commun
+Abatée (Nom commun)
+Nom commun
+Abattée (Nom commun)
+Nom commun
+Abâtardissement (Nom commun)
+Nom commun
+Abattable (Adjectif)
+Adjectif
+Abatis (Nom commun)
+Nom commun
+Abâtardir (Verbe)
+Verbe
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe'}
+word: abattement i: 100 nb_words: 88159
+word: abatteur i: 101 nb_words: 88159
+word: abatteuse i: 102 nb_words: 88159
+word: abattis i: 103 nb_words: 88159
+word: abattoir i: 104 nb_words: 88159
+word: abattre i: 105 nb_words: 88159
+word: abattu i: 106 nb_words: 88159
+word: abatture i: 107 nb_words: 88159
+word: abaxial i: 108 nb_words: 88159
+word: abaxiaux i: 109 nb_words: 88159
+Abattre (Verbe)
+Verbe
+Abatteuse (Nom commun)
+Nom commun
+Abattoir (Nom commun)
+Nom commun
+Abattu (Adjectif)
+Adjectif
+Abatteur (Nom commun)
+Nom commun
+Abattement (Nom commun)
+Nom commun
+Abaxial (Adjectif)
+Adjectif
+Abaxiaux (Forme d’adjectif)
+Forme d’adjectif
+Abatture (Nom commun)
+Nom commun
+Abattis (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun'}
+word: abaza i: 110 nb_words: 88159
+word: abbasside i: 111 nb_words: 88159
+word: abbatial i: 112 nb_words: 88159
+word: abbatiale i: 113 nb_words: 88159
+word: abbatiat i: 114 nb_words: 88159
+word: abbatiaux i: 115 nb_words: 88159
+word: abbattre i: 116 nb_words: 88159
+word: abbaye i: 117 nb_words: 88159
+word: abbé i: 118 nb_words: 88159
+word: abbécourtois i: 119 nb_words: 88159
+Abbasside (Adjectif)
+Adjectif
+Abbé (Nom commun)
+Nom commun
+Abbattre (Verbe)
+Verbe
+Abbatiale (Nom commun)
+Nom commun
+Abbécourtois (Adjectif)
+Adjectif
+Abbaye (Nom commun)
+Nom commun
+Abbatiaux (Forme d’adjectif)
+Forme d’adjectif
+Abaza (Nom commun)
+Nom commun
+Abbatial (Adjectif)
+Adjectif
+Abbatiat (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun'}
+word: abbesse i: 120 nb_words: 88159
+word: abbevillien i: 121 nb_words: 88159
+word: abbevillienne i: 122 nb_words: 88159
+word: abbevillois i: 123 nb_words: 88159
+word: abc i: 124 nb_words: 88159
+word: abcéder i: 125 nb_words: 88159
+word: abcès i: 126 nb_words: 88159
+word: abdalas i: 127 nb_words: 88159
+word: abdicataire i: 128 nb_words: 88159
+word: abdication i: 129 nb_words: 88159
+Abbesse (Nom commun)
+Nom commun
+Abcéder (Verbe)
+Verbe
+Abdalas (Nom commun)
+Nom commun
+Abcès (Nom commun)
+Nom commun
+Abbevillois (Adjectif)
+Adjectif
+Abbevillien (Adjectif)
+Adjectif
+Abdicataire (Adjectif)
+Adjectif
+Abc (Nom commun)
+Nom commun
+Abdication (Nom commun)
+Nom commun
+Abbevillienne (Forme d’adjectif)
+Forme d’adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif'}
+word: abdiquer i: 130 nb_words: 88159
+word: abdomen i: 131 nb_words: 88159
+word: abdominal i: 132 nb_words: 88159
+word: abdominale i: 133 nb_words: 88159
+word: abdominaux i: 134 nb_words: 88159
+word: abdos i: 135 nb_words: 88159
+word: abducteur i: 136 nb_words: 88159
+word: abduction i: 137 nb_words: 88159
+word: abductrice i: 138 nb_words: 88159
+word: abécédaire i: 139 nb_words: 88159
+Abdos (Forme de nom commun)
+Forme de nom commun
+Abdiquer (Verbe)
+Verbe
+Abdominale (Forme d’adjectif)
+Forme d’adjectif
+Abdomen (Nom commun)
+Nom commun
+Abécédaire (Adjectif)
+Adjectif
+Abduction (Nom commun)
+Nom commun
+Abdominaux (Forme d’adjectif)
+Forme d’adjectif
+Abdominal (Adjectif)
+Adjectif
+Abducteur (Adjectif)
+Adjectif
+Abductrice (Forme d’adjectif)
+Forme d’adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif'}
+word: abéchement i: 140 nb_words: 88159
+word: abécher i: 141 nb_words: 88159
+word: abecquement i: 142 nb_words: 88159
+word: abecquer i: 143 nb_words: 88159
+word: abée i: 144 nb_words: 88159
+word: abeillage i: 145 nb_words: 88159
+word: abeille i: 146 nb_words: 88159
+word: abeillé i: word: abeiller i: 148 nb_words: 88159
+word: abeillère i: 149 nb_words: 88159
+147 nb_words: 88159
+Abéchement (Nom commun)
+Nom commun
+Abecquer (Verbe)
+Verbe
+Abécher (Verbe)
+Verbe
+Abeillère (Forme d’adjectif)
+Forme d’adjectif
+Abée (Nom commun)
+Nom commun
+Abeillage (Nom commun)
+Nom commun
+Abeille (Nom commun)
+Nom commun
+Abeiller (Nom commun)
+Nom commun
+Abecquement (Nom commun)
+Nom commun
+Abeille (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun'}
+word: abeillier i: 150 nb_words: 88159
+word: abelcourtois i: 151 nb_words: 88159
+word: abélien i: 152 nb_words: 88159
+word: abélienne i: 153 nb_words: 88159
+word: abélite i: 154 nb_words: 88159
+word: abéquer i: 155 nb_words: 88159
+word: abéqueuse i: 156 nb_words: 88159
+word: aber i: 157 nb_words: 88159
+word: abergementais i: 158 nb_words: 88159
+word: aberrance i: 159 nb_words: 88159
+Abéquer (Verbe)
+Verbe
+Abeillier (Nom commun)
+Nom commun
+Abelcourtois (Adjectif)
+Adjectif
+Abélite (Nom commun)
+Nom commun
+Aber (Nom commun)
+Nom commun
+Abélien (Adjectif)
+Adjectif
+Abergementais (Adjectif)
+Adjectif
+Abéqueuse (Nom commun)
+Nom commun
+Abélienne (Forme d’adjectif)
+Forme d’adjectif
+Aberrance (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun'}
+word: aberrant i: 160 nb_words: 88159
+word: aberration i: 161 nb_words: 88159
+word: aberrer i: 162 nb_words: 88159
+word: abertzalisme i: 163 nb_words: 88159
+word: abessif i: 164 nb_words: 88159
+word: abêtir i: 165 nb_words: 88159
+word: abêtissant i: 166 nb_words: 88159
+word: abêtissement i: 167 nb_words: 88159
+word: abhorrable i: 168 nb_words: 88159
+word: abhorré i: 169 nb_words: 88159
+Abessif (Nom commun)
+Nom commun
+Abhorrable (Adjectif)
+Adjectif
+Abêtissement (Nom commun)
+Nom commun
+Abertzalisme (Nom commun)
+Nom commun
+Aberrant (Adjectif)
+Adjectif
+Aberrer (Verbe)
+Verbe
+Aberration (Nom commun)
+Nom commun
+Abhorré (Adjectif)
+Adjectif
+Abêtir (Verbe)
+Verbe
+Abêtissant (Adjectif)
+Adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif'}
+word: abhorrer i: 170 nb_words: 88159
+word: abidjanais i: 171 nb_words: 88159
+word: abies i: 172 nb_words: 88159
+word: abiétin i: 173 nb_words: 88159
+word: abiétiné i: 174 nb_words: 88159
+word: abiétinée i: 175 nb_words: 88159
+word: abigaïl i: 176 nb_words: 88159
+word: abigéat i: 177 nb_words: 88159
+word: abime i: 178 nb_words: 88159
+word: abimé i: 179 nb_words: 88159
+Abies (Nom commun)
+Nom commun
+Abigaïl (Nom commun)
+Nom commun
+Abiétiné (Adjectif)
+Adjectif
+Abiétin (Adjectif)
+Adjectif
+Abime (Nom commun)
+Nom commun
+Abiétinée (Nom commun)
+Nom commun
+Abhorrer (Verbe)
+Verbe
+Abigéat (Nom commun)
+Nom commun
+Abidjanais (Adjectif)
+Adjectif
+Abime (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun'}
+word: abîme i: 180 nb_words: 88159
+word: abîmé i: 181 nb_words: 88159
+word: abimer i: 182 nb_words: 88159
+word: abîmer i: 183 nb_words: 88159
+word: abiogenèse i: 184 nb_words: 88159
+word: abiose i: 185 nb_words: 88159
+word: abiotique i: 186 nb_words: 88159
+word: abitibien i: 187 nb_words: 88159
+word: abitibienne i: 188 nb_words: 88159
+word: abject i: 189 nb_words: 88159
+Abject (Adjectif)
+Adjectif
+Abiose (Nom commun)
+Nom commun
+Abitibienne (Forme d’adjectif)
+Forme d’adjectif
+Abiotique (Adjectif)
+Adjectif
+Abimer (Verbe)
+Verbe
+Abitibien (Adjectif)
+Adjectif
+Abiogenèse (Nom commun)
+Nom commun
+Abimer (Verbe)
+Verbe
+Abime (Nom commun)
+Nom commun
+Abime (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun'}
+word: abjectement i: 190 nb_words: 88159
+word: abjection i: 191 nb_words: 88159
+word: abjurateur i: 192 nb_words: 88159
+word: abjuration i: 193 nb_words: 88159
+word: abjuratoire i: 194 nb_words: 88159
+word: abjuratrice i: 195 nb_words: 88159
+word: abjurer i: 196 nb_words: 88159
+word: abkhaze i: 197 nb_words: 88159
+word: ablactation i: 198 nb_words: 88159
+word: ablatable i: 199 nb_words: 88159
+Abjurer (Verbe)
+Verbe
+Ablatable (Adjectif)
+Adjectif
+Abjuratrice (Forme d’adjectif)
+Forme d’adjectif
+Abjection (Nom commun)
+Nom commun
+Abjurateur (Adjectif)
+Adjectif
+Abjectement (Adverbe)
+Adverbe
+Ablactation (Nom commun)
+Nom commun
+Abjuratoire (Adjectif)
+Adjectif
+Abkhaze (Adjectif)
+Adjectif
+Abjuration (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun'}
+word: ablater i: 200 nb_words: 88159
+word: ablatif i: 201 nb_words: 88159
+word: ablation i: 202 nb_words: 88159
+word: ablatir i: 203 nb_words: 88159
+word: ablative i: 204 nb_words: 88159
+word: ablativo i: 205 nb_words: 88159
+word: able i: 206 nb_words: 88159
+word: ablégat i: 207 nb_words: 88159
+word: ablégation i: 208 nb_words: 88159
+word: ableigeois i: 209 nb_words: 88159
+Ablation (Nom commun)
+Nom commun
+Ablatir (Verbe)
+Verbe
+Ablégation (Nom commun)
+Nom commun
+Ablatif (Adjectif)
+Adjectif
+Ablégat (Nom commun)
+Nom commun
+Ablater (Verbe)
+Verbe
+Ableigeois (Adjectif)
+Adjectif
+Ablative (Forme d’adjectif)
+Forme d’adjectif
+Ablativo (Adverbe)
+Adverbe
+Able (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun'}
+word: abléphare i: 210 nb_words: 88159
+word: ablépharie i: 211 nb_words: 88159
+word: ableret i: 212 nb_words: 88159
+word: ablette i: 213 nb_words: 88159
+word: ablier i: 214 nb_words: 88159
+word: ablisien i: 215 nb_words: 88159
+word: ablisienne i: 216 nb_words: 88159
+word: abloc i: 217 nb_words: 88159
+word: ablonais i: 218 nb_words: 88159
+word: abloquer i: 219 nb_words: 88159
+Ablette (Nom commun)
+Nom commun
+Ableret (Nom commun)
+Nom commun
+Ablépharie (Nom commun)
+Nom commun
+Ablisienne (Forme d’adjectif)
+Forme d’adjectif
+Abloquer (Verbe)
+Verbe
+Ablier (Nom commun)
+Nom commun
+Ablonais (Adjectif)
+Adjectif
+Ablisien (Adjectif)
+Adjectif
+Abléphare (Nom commun)
+Nom commun
+Abloc (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun'}
+word: abluant i: 220 nb_words: 88159
+word: abluer i: 221 nb_words: 88159
+word: ablution i: 222 nb_words: 88159
+word: ablutionner i: 223 nb_words: 88159
+word: ablutophobie i: 224 nb_words: 88159
+word: abnégation i: 225 nb_words: 88159
+word: aboi i: 226 nb_words: 88159
+word: aboiement i: 227 nb_words: 88159
+word: abolir i: 228 nb_words: 88159
+word: abolissable i: 229 nb_words: 88159
+Abolissable (Adjectif)
+Adjectif
+Ablutophobie (Nom commun)
+Nom commun
+Ablution (Nom commun)
+Nom commun
+Abluant (Adjectif)
+Adjectif
+Abluer (Verbe)
+Verbe
+Ablutionner (Verbe)
+Verbe
+Aboi (Nom commun)
+Nom commun
+Abolir (Verbe)
+Verbe
+Aboiement (Nom commun)
+Nom commun
+Abnégation (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun'}
+word: abolissement i: 230 nb_words: 88159
+word: abolisseur i: 231 nb_words: 88159
+word: abolitif i: 232 nb_words: 88159
+word: abolition i: 233 nb_words: 88159
+word: abolitionnisme i: 234 nb_words: 88159
+word: abolitionniste i: 235 nb_words: 88159
+word: abolitive i: 236 nb_words: 88159
+word: abomasum i: 237 nb_words: 88159
+word: abominable i: 238 nb_words: 88159
+word: abominablement i: 239 nb_words: 88159
+Abolissement (Nom commun)
+Nom commun
+Abolitionniste (Adjectif)
+Adjectif
+Abomasum (Nom commun)
+Nom commun
+Abolitionnisme (Nom commun)
+Nom commun
+Abominablement (Adverbe)
+Adverbe
+Abolition (Nom commun)
+Nom commun
+Abolisseur (Nom commun)
+Nom commun
+Abominable (Adjectif)
+Adjectif
+Abolitif (Adjectif)
+Adjectif
+Abolitive (Forme d’adjectif)
+Forme d’adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif'}
+word: abomination i: 240 nb_words: 88159
+word: abominer i: 241 nb_words: 88159
+word: aboncourtois i: 242 nb_words: 88159
+word: abondamment i: 243 nb_words: 88159
+word: abondance i: 244 nb_words: 88159
+word: abondancier i: 245 nb_words: 88159
+word: abondancière i: 246 nb_words: 88159
+word: abondanciste i: 247 nb_words: 88159
+word: abondant i: 248 nb_words: 88159
+word: abondement i: 249 nb_words: 88159
+Abondamment (Adverbe)
+Adverbe
+Abondancier (Adjectif)
+Adjectif
+Abondance (Nom commun)
+Nom commun
+Abominer (Verbe)
+Verbe
+Abondant (Adjectif)
+Adjectif
+Abomination (Nom commun)
+Nom commun
+Aboncourtois (Adjectif)
+Adjectif
+Abondanciste (Adjectif)
+Adjectif
+Abondement (Nom commun)
+Nom commun
+Abondancière (Forme d’adjectif)
+Forme d’adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif', 'abondamment': 'Adverbe', 'abondancier': 'Adjectif', 'abondance': 'Nom commun', 'abominer': 'Verbe', 'abondant': 'Adjectif', 'abomination': 'Nom commun', 'aboncourtois': 'Adjectif', 'abondanciste': 'Adjectif', 'abondement': 'Nom commun', 'abondancière': 'Forme d’adjectif'}
+word: abonder i: 250 nb_words: 88159
+word: abonnataire i: 251 nb_words: 88159
+word: abonné i: 252 nb_words: 88159
+word: abonnement i: 253 nb_words: 88159
+word: abonner i: 254 nb_words: 88159
+word: abonnir i: 255 nb_words: 88159
+word: abonnissement i: 256 nb_words: 88159
+word: aboral i: 257 nb_words: 88159
+word: abord i: 258 nb_words: 88159
+word: abordable i: 259 nb_words: 88159
+Abonnir (Verbe)
+Verbe
+Abonner (Verbe)
+Verbe
+Abonnataire (Nom commun)
+Nom commun
+Abordable (Adjectif)
+Adjectif
+Abonnissement (Nom commun)
+Nom commun
+Abonné (Nom commun)
+Nom commun
+Aboral (Adjectif)
+Adjectif
+Abonnement (Nom commun)
+Nom commun
+Abonder (Verbe)
+Verbe
+Abord (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif', 'abondamment': 'Adverbe', 'abondancier': 'Adjectif', 'abondance': 'Nom commun', 'abominer': 'Verbe', 'abondant': 'Adjectif', 'abomination': 'Nom commun', 'aboncourtois': 'Adjectif', 'abondanciste': 'Adjectif', 'abondement': 'Nom commun', 'abondancière': 'Forme d’adjectif', 'abonnir': 'Verbe', 'abonner': 'Verbe', 'abonnataire': 'Nom commun', 'abordable': 'Adjectif', 'abonnissement': 'Nom commun', 'abonné': 'Nom commun', 'aboral': 'Adjectif', 'abonnement': 'Nom commun', 'abonder': 'Verbe', 'abord': 'Nom commun'}
+word: abordage i: 260 nb_words: 88159
+word: aborder i: 261 nb_words: 88159
+word: abordeur i: 262 nb_words: 88159
+word: abords i: 263 nb_words: 88159
+word: aborigène i: 264 nb_words: 88159
+word: abornement i: 265 nb_words: 88159
+word: aborner i: 266 nb_words: 88159
+word: abortif i: 267 nb_words: 88159
+word: abortive i: 268 nb_words: 88159
+word: abot i: 269 nb_words: 88159
+Aborder (Verbe)
+Verbe
+Abords (Forme de nom commun)
+Forme de nom commun
+Abornement (Nom commun)
+Nom commun
+Abordage (Nom commun)
+Nom commun
+Aborner (Verbe)
+Verbe
+Abordeur (Nom commun)
+Nom commun
+Abortif (Adjectif)
+Adjectif
+Abortive (Forme d’adjectif)
+Forme d’adjectif
+Aborigène (Adjectif)
+Adjectif
+Abot (Nom commun)
+Nom commun
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif', 'abondamment': 'Adverbe', 'abondancier': 'Adjectif', 'abondance': 'Nom commun', 'abominer': 'Verbe', 'abondant': 'Adjectif', 'abomination': 'Nom commun', 'aboncourtois': 'Adjectif', 'abondanciste': 'Adjectif', 'abondement': 'Nom commun', 'abondancière': 'Forme d’adjectif', 'abonnir': 'Verbe', 'abonner': 'Verbe', 'abonnataire': 'Nom commun', 'abordable': 'Adjectif', 'abonnissement': 'Nom commun', 'abonné': 'Nom commun', 'aboral': 'Adjectif', 'abonnement': 'Nom commun', 'abonder': 'Verbe', 'abord': 'Nom commun', 'aborder': 'Verbe', 'abords': 'Forme de nom commun', 'abornement': 'Nom commun', 'abordage': 'Nom commun', 'aborner': 'Verbe', 'abordeur': 'Nom commun', 'abortif': 'Adjectif', 'abortive': 'Forme d’adjectif', 'aborigène': 'Adjectif', 'abot': 'Nom commun'}
+word: aboteau i: 270 nb_words: 88159
+word: aboteaux i: 271 nb_words: 88159
+word: aboter i: 272 nb_words: 88159
+word: abouchement i: 273 nb_words: 88159
+word: aboucher i: 274 nb_words: 88159
+word: abougri i: 275 nb_words: 88159
+word: abougrir i: 276 nb_words: 88159
+word: abougrissement i: 277 nb_words: 88159
+word: abouler i: 278 nb_words: 88159
+word: aboulie i: 279 nb_words: 88159
+Aboter (Verbe)
+Verbe
+Aboteaux (Forme de nom commun)
+Forme de nom commun
+Abougrir (Verbe)
+Verbe
+Abouler (Verbe)
+Verbe
+Abouchement (Nom commun)
+Nom commun
+Abougrissement (Nom commun)
+Nom commun
+Aboulie (Nom commun)
+Nom commun
+Aboteau (Nom commun)
+Nom commun
+Abougri (Adjectif)
+Adjectif
+Aboucher (Verbe)
+Verbe
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif', 'abondamment': 'Adverbe', 'abondancier': 'Adjectif', 'abondance': 'Nom commun', 'abominer': 'Verbe', 'abondant': 'Adjectif', 'abomination': 'Nom commun', 'aboncourtois': 'Adjectif', 'abondanciste': 'Adjectif', 'abondement': 'Nom commun', 'abondancière': 'Forme d’adjectif', 'abonnir': 'Verbe', 'abonner': 'Verbe', 'abonnataire': 'Nom commun', 'abordable': 'Adjectif', 'abonnissement': 'Nom commun', 'abonné': 'Nom commun', 'aboral': 'Adjectif', 'abonnement': 'Nom commun', 'abonder': 'Verbe', 'abord': 'Nom commun', 'aborder': 'Verbe', 'abords': 'Forme de nom commun', 'abornement': 'Nom commun', 'abordage': 'Nom commun', 'aborner': 'Verbe', 'abordeur': 'Nom commun', 'abortif': 'Adjectif', 'abortive': 'Forme d’adjectif', 'aborigène': 'Adjectif', 'abot': 'Nom commun', 'aboter': 'Verbe', 'aboteaux': 'Forme de nom commun', 'abougrir': 'Verbe', 'abouler': 'Verbe', 'abouchement': 'Nom commun', 'abougrissement': 'Nom commun', 'aboulie': 'Nom commun', 'aboteau': 'Nom commun', 'abougri': 'Adjectif', 'aboucher': 'Verbe'}
+word: aboulique i: 280 nb_words: 88159
+word: about i: 281 nb_words: 88159
+word: aboutage i: 282 nb_words: 88159
+word: abouté i: 283 nb_words: 88159
+word: aboutement i: 284 nb_words: 88159
+word: abouter i: 285 nb_words: 88159
+word: abouti i: 286 nb_words: 88159
+word: aboutir i: 287 nb_words: 88159
+word: aboutissant i: 288 nb_words: 88159
+word: aboutissement i: 289 nb_words: 88159
+About (Nom commun)
+Nom commun
+Aboutement (Nom commun)
+Nom commun
+Aboutir (Verbe)
+Verbe
+Aboutage (Nom commun)
+Nom commun
+Abouté (Adjectif)
+Adjectif
+Abouter (Verbe)
+Verbe
+Aboulique (Adjectif)
+Adjectif
+Abouti (Adjectif)
+Adjectif
+Aboutissement (Nom commun)
+Nom commun
+Aboutissant (Adjectif)
+Adjectif
+infos {'à-côté': 'Nom commun', 'à-pics': 'Forme de nom commun', 'A': 'Lettre', 'à-pic': 'Nom commun', 'à-coup': 'Nom commun', 'à-plat': 'Nom commun', 'à-peu-près': 'Nom commun', 'à-propos': 'Nom commun', 'a': 'Lettre', 'à': 'Lettre', 'à-valoir': 'Nom commun', 'aa': 'Nom commun', 'aabam': 'Nom commun', 'aaaa': 'Symbole', 'AA': 'Nom commun', 'aalénien': 'Adjectif', 'à-venir': 'Nom commun', 'AAH': 'Sigle', 'AAAAA': 'Sigle', 'AAA': 'Sigle', 'aalénienne': 'Forme d’adjectif', 'AB': 'Nom commun', 'ab': 'Nom commun', 'abacost': 'Nom commun', 'aba': 'Nom commun', 'ababouiné': 'Adjectif', 'aastais': 'Adjectif', 'abaca': 'Nom commun', 'abacos': 'Nom commun', 'AAVE': 'Sigle', 'abainvillois': 'Adjectif', 'abactérienne': 'Forme d’adjectif', 'abacule': 'Nom commun', 'abadis': 'Nom commun', 'abadie': 'Nom commun', 'abader': 'Verbe', 'abacus': 'Nom commun', 'abactérien': 'Adjectif', 'abaga': 'Nom commun', 'abaissable': 'Adjectif', 'abaisse': 'Nom commun', 'abaissée': 'Nom commun', 'abaisseur': 'Nom commun', 'abaissement': 'Nom commun', 'abaisse-langues': 'Forme de nom commun', 'abaissant': 'Adjectif', 'abaisseuse': 'Forme de nom commun', 'abaisser': 'Verbe', 'abaisse-langue': 'Nom commun', 'abaissé': 'Nom commun', 'abajoue': 'Nom commun', 'abandon': 'Nom commun', 'abancourtois': 'Adjectif', 'abalone': 'Nom commun', 'abalourdir': 'Verbe', 'abandonnatrice': 'Forme de nom commun', 'abandonnataire': 'Nom commun', 'abandonnable': 'Adjectif', 'abandonné': 'Adjectif', 'abandonnateur': 'Nom commun', 'abandonware': 'Nom commun', 'abandonner': 'Verbe', 'abandonneur': 'Nom commun', 'abandonnement': 'Nom commun', 'abas': 'Forme de nom commun', 'abarticulaire': 'Adjectif', 'abandonneuse': 'Nom commun', 'abandonnique': 'Adjectif', 'abaque': 'Nom commun', 'abandonnément': 'Nom commun', 'abat-carre': 'Nom commun', 'abasourdissant': 'Adjectif', 'abat': 'Nom commun', 'abasourdissement': 'Nom commun', 'abasourdi': 'Adjectif', 'abasie': 'Nom commun', 'abat-chauvée': 'Nom commun', 'abasourdir': 'Verbe', 'abat-faim': 'Nom commun', 'abat-carrer': 'Verbe', 'abat-foin': 'Nom commun', 'abat-jours': 'Forme de nom commun', 'abat-vent': 'Nom commun', 'abat-jour': 'Nom commun', 'abat-son': 'Nom commun', 'abatage': 'Verbe', 'abat-foins': 'Forme de nom commun', 'abat-sons': 'Forme de nom commun', 'abat-vents': 'Forme de nom commun', 'abat-voix': 'Nom commun', 'abatant': 'Nom commun', 'abattage': 'Nom commun', 'abats': 'Forme de nom commun', 'abattant': 'Nom commun', 'abatée': 'Nom commun', 'abattée': 'Nom commun', 'abâtardissement': 'Nom commun', 'abattable': 'Adjectif', 'abatis': 'Nom commun', 'abâtardir': 'Verbe', 'abattre': 'Verbe', 'abatteuse': 'Nom commun', 'abattoir': 'Nom commun', 'abattu': 'Adjectif', 'abatteur': 'Nom commun', 'abattement': 'Nom commun', 'abaxial': 'Adjectif', 'abaxiaux': 'Forme d’adjectif', 'abatture': 'Nom commun', 'abattis': 'Nom commun', 'abbasside': 'Adjectif', 'abbé': 'Nom commun', 'abbattre': 'Verbe', 'abbatiale': 'Nom commun', 'abbécourtois': 'Adjectif', 'abbaye': 'Nom commun', 'abbatiaux': 'Forme d’adjectif', 'abaza': 'Nom commun', 'abbatial': 'Adjectif', 'abbatiat': 'Nom commun', 'abbesse': 'Nom commun', 'abcéder': 'Verbe', 'abdalas': 'Nom commun', 'abcès': 'Nom commun', 'abbevillois': 'Adjectif', 'abbevillien': 'Adjectif', 'abdicataire': 'Adjectif', 'abc': 'Nom commun', 'abdication': 'Nom commun', 'abbevillienne': 'Forme d’adjectif', 'abdos': 'Forme de nom commun', 'abdiquer': 'Verbe', 'abdominale': 'Forme d’adjectif', 'abdomen': 'Nom commun', 'abécédaire': 'Adjectif', 'abduction': 'Nom commun', 'abdominaux': 'Forme d’adjectif', 'abdominal': 'Adjectif', 'abducteur': 'Adjectif', 'abductrice': 'Forme d’adjectif', 'abéchement': 'Nom commun', 'abecquer': 'Verbe', 'abécher': 'Verbe', 'abeillère': 'Forme d’adjectif', 'abée': 'Nom commun', 'abeillage': 'Nom commun', 'abeille': 'Nom commun', 'abeiller': 'Nom commun', 'abecquement': 'Nom commun', 'abeillé': 'Nom commun', 'abéquer': 'Verbe', 'abeillier': 'Nom commun', 'abelcourtois': 'Adjectif', 'abélite': 'Nom commun', 'aber': 'Nom commun', 'abélien': 'Adjectif', 'abergementais': 'Adjectif', 'abéqueuse': 'Nom commun', 'abélienne': 'Forme d’adjectif', 'aberrance': 'Nom commun', 'abessif': 'Nom commun', 'abhorrable': 'Adjectif', 'abêtissement': 'Nom commun', 'abertzalisme': 'Nom commun', 'aberrant': 'Adjectif', 'aberrer': 'Verbe', 'aberration': 'Nom commun', 'abhorré': 'Adjectif', 'abêtir': 'Verbe', 'abêtissant': 'Adjectif', 'abies': 'Nom commun', 'abigaïl': 'Nom commun', 'abiétiné': 'Adjectif', 'abiétin': 'Adjectif', 'abime': 'Nom commun', 'abiétinée': 'Nom commun', 'abhorrer': 'Verbe', 'abigéat': 'Nom commun', 'abidjanais': 'Adjectif', 'abimé': 'Nom commun', 'abject': 'Adjectif', 'abiose': 'Nom commun', 'abitibienne': 'Forme d’adjectif', 'abiotique': 'Adjectif', 'abimer': 'Verbe', 'abitibien': 'Adjectif', 'abiogenèse': 'Nom commun', 'abîmer': 'Verbe', 'abîmé': 'Nom commun', 'abîme': 'Nom commun', 'abjurer': 'Verbe', 'ablatable': 'Adjectif', 'abjuratrice': 'Forme d’adjectif', 'abjection': 'Nom commun', 'abjurateur': 'Adjectif', 'abjectement': 'Adverbe', 'ablactation': 'Nom commun', 'abjuratoire': 'Adjectif', 'abkhaze': 'Adjectif', 'abjuration': 'Nom commun', 'ablation': 'Nom commun', 'ablatir': 'Verbe', 'ablégation': 'Nom commun', 'ablatif': 'Adjectif', 'ablégat': 'Nom commun', 'ablater': 'Verbe', 'ableigeois': 'Adjectif', 'ablative': 'Forme d’adjectif', 'ablativo': 'Adverbe', 'able': 'Nom commun', 'ablette': 'Nom commun', 'ableret': 'Nom commun', 'ablépharie': 'Nom commun', 'ablisienne': 'Forme d’adjectif', 'abloquer': 'Verbe', 'ablier': 'Nom commun', 'ablonais': 'Adjectif', 'ablisien': 'Adjectif', 'abléphare': 'Nom commun', 'abloc': 'Nom commun', 'abolissable': 'Adjectif', 'ablutophobie': 'Nom commun', 'ablution': 'Nom commun', 'abluant': 'Adjectif', 'abluer': 'Verbe', 'ablutionner': 'Verbe', 'aboi': 'Nom commun', 'abolir': 'Verbe', 'aboiement': 'Nom commun', 'abnégation': 'Nom commun', 'abolissement': 'Nom commun', 'abolitionniste': 'Adjectif', 'abomasum': 'Nom commun', 'abolitionnisme': 'Nom commun', 'abominablement': 'Adverbe', 'abolition': 'Nom commun', 'abolisseur': 'Nom commun', 'abominable': 'Adjectif', 'abolitif': 'Adjectif', 'abolitive': 'Forme d’adjectif', 'abondamment': 'Adverbe', 'abondancier': 'Adjectif', 'abondance': 'Nom commun', 'abominer': 'Verbe', 'abondant': 'Adjectif', 'abomination': 'Nom commun', 'aboncourtois': 'Adjectif', 'abondanciste': 'Adjectif', 'abondement': 'Nom commun', 'abondancière': 'Forme d’adjectif', 'abonnir': 'Verbe', 'abonner': 'Verbe', 'abonnataire': 'Nom commun', 'abordable': 'Adjectif', 'abonnissement': 'Nom commun', 'abonné': 'Nom commun', 'aboral': 'Adjectif', 'abonnement': 'Nom commun', 'abonder': 'Verbe', 'abord': 'Nom commun', 'aborder': 'Verbe', 'abords': 'Forme de nom commun', 'abornement': 'Nom commun', 'abordage': 'Nom commun', 'aborner': 'Verbe', 'abordeur': 'Nom commun', 'abortif': 'Adjectif', 'abortive': 'Forme d’adjectif', 'aborigène': 'Adjectif', 'abot': 'Nom commun', 'aboter': 'Verbe', 'aboteaux': 'Forme de nom commun', 'abougrir': 'Verbe', 'abouler': 'Verbe', 'abouchement': 'Nom commun', 'abougrissement': 'Nom commun', 'aboulie': 'Nom commun', 'aboteau': 'Nom commun', 'abougri': 'Adjectif', 'aboucher': 'Verbe', 'about': 'Nom commun', 'aboutement': 'Nom commun', 'aboutir': 'Verbe', 'aboutage': 'Nom commun', 'abouté': 'Adjectif', 'abouter': 'Verbe', 'aboulique': 'Adjectif', 'abouti': 'Adjectif', 'aboutissement': 'Nom commun', 'aboutissant': 'Adjectif'}
+word: aboutonner i: 290 nb_words: 88159
+word: aboyant i: 291 nb_words: 88159
+word: aboyer i: 292 nb_words: 88159
+word: aboyeur i: 293 nb_words: 88159
+word: aboyeuse i: 294 nb_words: 88159
+word: ABP i: 295 nb_words: 88159
+word: abracadabra i: 296 nb_words: 88159
+word: abracadabrant i: 297 nb_words: 88159
+word: abracadabrantesque i: 298 nb_words: 88159
+word: abracadabrer i: 299 nb_words: 88159
+Aboyant (Adjectif)
+Adjectif
+Abracadabrant (Adjectif)
+Adjectif
+Aboyeur (Nom commun)
+Nom commun
+Aboyer (Verbe)
+Verbe
+Abracadabrer (Verbe)
+Verbe
+Abracadabrantesque (Adjectif)
+Adjectif
+Abracadabra (Nom commun)
+Nom commun
+Aboutonner (Verbe)
+Verbe
+Aboyeuse (Forme de nom commun)
+Forme de nom commun

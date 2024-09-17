@@ -1,0 +1,36 @@
+{
+  "defined_articles": ["l'", "la", "le", "les"],
+  "undefined_articles": ["un", "une", "des"],
+  "partial_articles": ["du", "des"],
+  "possessive_adjectives": [
+    "mon",
+    "ma",
+    "mes",
+    "ton",
+    "ta",
+    "tes",
+    "son",
+    "sa",
+    "ses",
+    "notre",
+    "nos",
+    "votre",
+    "vos",
+    "leur",
+    "leurs"
+  ],
+  "demonstrative_adjectives": ["ce", "cet", "cette", "ces"],
+  "undefined_adjectives": ["chaque", "tout", "aucun", "quelques", "plusieurs"],
+  "numeral_adjectives": [
+    "un",
+    "deux",
+    "trois",
+    "quatre",
+    "cinq",
+    "six",
+    "sept",
+    "huit",
+    "neuf",
+    "dix"
+  ]
+}

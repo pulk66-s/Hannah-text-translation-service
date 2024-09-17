@@ -1,0 +1,387 @@
+{
+  "infinitives": [
+    "lancer"
+  ],
+  "conjugations": {
+    "as": {
+      "verb": "avoir",
+      "tense": "present"
+    },
+    "semblent": {
+      "verb": "sembler",
+      "tense": "present"
+    },
+    "attrape": {
+      "verb": "attraper",
+      "tense": "present"
+    },
+    "prête": {
+      "verb": "prêter",
+      "tense": "present"
+    },
+    "suis": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "es": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "est": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "sommes": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "êtes": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "sont": {
+      "verb": "être",
+      "tense": "present"
+    },
+    "étais": {
+      "verb": "être",
+      "tense": "past"
+    },
+    "voyage": {
+      "verb": "voyager",
+      "tense": "present"
+    },
+    "voyages": {
+      "verb": "voyager",
+      "tense": "present"
+    },
+    "voyageons": {
+      "verb": "voyager",
+      "tense": "present"
+    },
+    "voyagez": {
+      "verb": "voyager",
+      "tense": "present"
+    },
+    "voyagent": {
+      "verb": "voyager",
+      "tense": "present"
+    },
+    "mange": {
+      "verb": "manger",
+      "tense": "present"
+    },
+    "manges": {
+      "verb": "manger",
+      "tense": "present"
+    },
+    "mangeons": {
+      "verb": "manger",
+      "tense": "present"
+    },
+    "mangez": {
+      "verb": "manger",
+      "tense": "present"
+    },
+    "mangent": {
+      "verb": "manger",
+      "tense": "present"
+    },
+    "mangeais": {
+      "verb": "manger",
+      "tense": "past"
+    },
+    "parle": {
+      "verb": "parler",
+      "tense": "present"
+    },
+    "parles": {
+      "verb": "parler",
+      "tense": "present"
+    },
+    "parlons": {
+      "verb": "parler",
+      "tense": "present"
+    },
+    "parlez": {
+      "verb": "parler",
+      "tense": "present"
+    },
+    "parlent": {
+      "verb": "parler",
+      "tense": "present"
+    },
+    "parlais": {
+      "verb": "parler",
+      "tense": "past"
+    },
+    "travaille": {
+      "verb": "travailler",
+      "tense": "present"
+    },
+    "travailles": {
+      "verb": "travailler",
+      "tense": "present"
+    },
+    "travaillons": {
+      "verb": "travailler",
+      "tense": "present"
+    },
+    "travaillez": {
+      "verb": "travailler",
+      "tense": "present"
+    },
+    "travaillent": {
+      "verb": "travailler",
+      "tense": "present"
+    },
+    "travaillais": {
+      "verb": "travailler",
+      "tense": "past"
+    },
+    "aime": {
+      "verb": "aimer",
+      "tense": "present"
+    },
+    "aimes": {
+      "verb": "aimer",
+      "tense": "present"
+    },
+    "aimons": {
+      "verb": "aimer",
+      "tense": "present"
+    },
+    "aimez": {
+      "verb": "aimer",
+      "tense": "present"
+    },
+    "aiment": {
+      "verb": "aimer",
+      "tense": "present"
+    },
+    "aimais": {
+      "verb": "aimer",
+      "tense": "past"
+    },
+    "étudie": {
+      "verb": "étudier",
+      "tense": "present"
+    },
+    "étudies": {
+      "verb": "étudier",
+      "tense": "present"
+    },
+    "étudions": {
+      "verb": "étudier",
+      "tense": "present"
+    },
+    "étudiez": {
+      "verb": "étudier",
+      "tense": "present"
+    },
+    "étudient": {
+      "verb": "étudier",
+      "tense": "present"
+    },
+    "étudiais": {
+      "verb": "étudier",
+      "tense": "past"
+    },
+    "chante": {
+      "verb": "chanter",
+      "tense": "present"
+    },
+    "chantes": {
+      "verb": "chanter",
+      "tense": "present"
+    },
+    "chantons": {
+      "verb": "chanter",
+      "tense": "present"
+    },
+    "chantez": {
+      "verb": "chanter",
+      "tense": "present"
+    },
+    "chantent": {
+      "verb": "chanter",
+      "tense": "present"
+    },
+    "chantais": {
+      "verb": "chanter",
+      "tense": "past"
+    },
+    "danse": {
+      "verb": "danser",
+      "tense": "present"
+    },
+    "danses": {
+      "verb": "danser",
+      "tense": "present"
+    },
+    "dansons": {
+      "verb": "danser",
+      "tense": "present"
+    },
+    "dansez": {
+      "verb": "danser",
+      "tense": "present"
+    },
+    "dansent": {
+      "verb": "danser",
+      "tense": "present"
+    },
+    "dansais": {
+      "verb": "danser",
+      "tense": "past"
+    },
+    "joue": {
+      "verb": "jouer",
+      "tense": "present"
+    },
+    "joues": {
+      "verb": "jouer",
+      "tense": "present"
+    },
+    "jouons": {
+      "verb": "jouer",
+      "tense": "present"
+    },
+    "jouez": {
+      "verb": "jouer",
+      "tense": "present"
+    },
+    "jouent": {
+      "verb": "jouer",
+      "tense": "present"
+    },
+    "jouais": {
+      "verb": "jouer",
+      "tense": "past"
+    },
+    "regarde": {
+      "verb": "regarder",
+      "tense": "present"
+    },
+    "regardes": {
+      "verb": "regarder",
+      "tense": "present"
+    },
+    "regardons": {
+      "verb": "regarder",
+      "tense": "present"
+    },
+    "regardez": {
+      "verb": "regarder",
+      "tense": "present"
+    },
+    "regardent": {
+      "verb": "regarder",
+      "tense": "present"
+    },
+    "regardais": {
+      "verb": "regarder",
+      "tense": "past"
+    },
+    "écoute": {
+      "verb": "écouter",
+      "tense": "present"
+    },
+    "écoutes": {
+      "verb": "écouter",
+      "tense": "present"
+    },
+    "écoutons": {
+      "verb": "écouter",
+      "tense": "present"
+    },
+    "écoutez": {
+      "verb": "écouter",
+      "tense": "present"
+    },
+    "écoutent": {
+      "verb": "écouter",
+      "tense": "present"
+    },
+    "écoutais": {
+      "verb": "écouter",
+      "tense": "past"
+    },
+    "peins": {
+      "verb": "peindre",
+      "tense": "present"
+    },
+    "peint": {
+      "verb": "peindre",
+      "tense": "present"
+    },
+    "peignons": {
+      "verb": "peindre",
+      "tense": "present"
+    },
+    "peignez": {
+      "verb": "peindre",
+      "tense": "present"
+    },
+    "peignent": {
+      "verb": "peindre",
+      "tense": "present"
+    },
+    "peignais": {
+      "verb": "peindre",
+      "tense": "past"
+    },
+    "écris": {
+      "verb": "écrire",
+      "tense": "present"
+    },
+    "écrit": {
+      "verb": "écrire",
+      "tense": "present"
+    },
+    "écrivons": {
+      "verb": "écrire",
+      "tense": "present"
+    },
+    "écrivez": {
+      "verb": "écrire",
+      "tense": "present"
+    },
+    "écrivent": {
+      "verb": "écrire",
+      "tense": "present"
+    },
+    "écrivais": {
+      "verb": "écrire",
+      "tense": "past"
+    },
+    "cours": {
+      "verb": "courir",
+      "tense": "present"
+    },
+    "court": {
+      "verb": "courir",
+      "tense": "present"
+    },
+    "courons": {
+      "verb": "courir",
+      "tense": "present"
+    },
+    "courez": {
+      "verb": "courir",
+      "tense": "present"
+    },
+    "courent": {
+      "verb": "courir",
+      "tense": "present"
+    },
+    "courais": {
+      "verb": "courir",
+      "tense": "past"
+    },
+    "peut": {
+      "verb": "pouvoir",
+      "tense": "present"
+    }
+  }
+}
